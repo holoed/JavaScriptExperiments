@@ -1,4 +1,4 @@
-# Experiments [![Build Status](https://secure.travis-ci.org/epentangelo/JavaScriptExperiments.png?branch=master)](http://travis-ci.org/epentangelo/JavaScriptExperiments)
+# Experiments [![Build Status](https://secure.travis-ci.org/holoed/JavaScriptExperiments.png?branch=master)](http://travis-ci.org/holoed/JavaScriptExperiments)
 
 ## Getting Started
 Install the module with: `npm install Experiments`
